@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Conciliador de Vendas",
+  "description": "Uma aplicação para conciliar dados de vendas a partir de três arquivos Excel. O sistema cruza informações de pesquisas respondidas e pesquisas para reenvio com uma base de dados de referência, utilizando o chassi do veículo como chave de ligação.",
+  "requestFramePermissions": []
+}
